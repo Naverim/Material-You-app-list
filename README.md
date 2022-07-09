@@ -7,6 +7,8 @@ Here is a small list of apps that support the Material You design/theme. The lis
 
 (MDY) Represents app that have both Material Design 3 and Material You theming
 
+❗ There are premium apps here that I can only tell if they have MD3/MY by their play store screenshots only. Sorry if it's inaccurate
+
 ![](https://lh3.googleusercontent.com/552oGSlinN0Gd7T8EjNkYGCBzHt0UmoG_pWtHSUY6FwaGT4q4-zJlGHD9rWO7MT5Oe_rtQZmyVnGRxVXch7Q1CTSQMs_1TcwbIMX9xZYDjEK2_R7PA=w1064-v0)
 
 # Known apps:
@@ -18,8 +20,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 ------------
 ### News Feed and Readers
 - [(MDY) Tachiyomi](https://tachiyomi.org/ "Tachiyomi")
-- [Plenary](https://play.google.com/store/apps/details?id=com.spians.plenary "Plenary")
-- [Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
+- [(MDY) Neko Manga Reader](https://github.com/CarlosEsco/Neko "Neko Manga Reader")
 - [(MDY) ReadYou](https://github.com/Ashinch/ReadYou)
 - [(MDY) News](https://www.f-droid.org/packages/co.appreactor.news/)
 
@@ -27,9 +28,9 @@ Here is a small list of apps that support the Material You design/theme. The lis
 ### Miscellaneous
 - [(MDY) Bundled Notes](https://play.google.com/store/apps/details?id=com.xaviertobin.noted)
 - [(MDY) Weather Today](https://play.google.com/store/apps/details?id=com.kokoschka.michael.weather "Wetter Aktuell")
-- [Fuelio](https://play.google.com/store/apps/details?id=com.kajda.fuelio&hl=de_CH&gl=US "Fuelio")
 - [(MD) Droid-ify](https://www.f-droid.org/packages/com.looker.droidify/)
 - [(MY) harpy for Twitter](https://play.google.com/store/apps/details?id=com.robertodoering.harpy.free)
+
 ------------
 ### Media
 - [(MD) CloudStream-3](https://github.com/LagradOst/CloudStream-3)
@@ -40,24 +41,24 @@ Here is a small list of apps that support the Material You design/theme. The lis
 ------------
 ### Tools
 - [(MDY) Material Files](https://github.com/zhanghai/MaterialFiles)
-- [DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
-- [Inware](https://play.google.com/store/apps/details?id=com.evo.inware "Inware")
-- [SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide "SeriesGuide")
-- [Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet "Wavelet")
-- [Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
-- [Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup "Swift Backup")
-- [AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release "AirGuard - AirTag protection")
-- [DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller "DiscoverKiller")
-- [ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
-- [TapTap](https://github.com/KieronQuinn/TapTap "TapTap")
-- [Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
+- [(MDY) DarQ](https://github.com/KieronQuinn/DarQ "DarQ")
+- [(MDY) Inware](https://play.google.com/store/apps/details?id=com.evo.inware "Inware")
+- [(MDY) SeriesGuide](https://play.google.com/store/apps/details?id=com.battlelancer.seriesguide "SeriesGuide")
+- [(MDY) Wavelet](https://play.google.com/store/apps/details?id=com.pittvandewitt.wavelet "Wavelet")
+- [(MY) Tasker](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm "Tasker")
+- [(MDY) Swift Backup](https://play.google.com/store/apps/details?id=org.swiftapps.swiftbackup "Swift Backup")
+- [(MDY) AirGuard - AirTag protection](https://play.google.com/store/apps/details?id=de.seemoo.at_tracking_detection.release "AirGuard - AirTag protection")
+- [(MDY) DiscoverKiller](https://github.com/KieronQuinn/DiscoverKiller "DiscoverKiller")
+- [(MDY) ClassicPowerMenu](https://github.com/KieronQuinn/ClassicPowerMenu "ClassicPowerMenu")
+- [(MDY) TapTap](https://github.com/KieronQuinn/TapTap "TapTap")
+- [(MDY) Codora](https://play.google.com/store/apps/details?id=com.kokoschka.michael.qrtools)
 - [(MDY) All-In-One Calculator](https://play.google.com/store/apps/details?id=all.in.one.calculator)
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 ------------
 ### Icons / Wallpaper / Widgets
-- [Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack "Pix Material You Icons")
-- [Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color "Pix Material Colors Icon Pack")
-- [Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers "Pix Wallpapers")
-- [Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall "Swift Walls - Wallpapers")
-- [Paper Splash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash&hl=de_CH&gl=US "Paper Splash")
+- [(MY) Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack "Pix Material You Icons")
+- [(MY) Pix Material Colors Icon Pack](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.color "Pix Material Colors Icon Pack")
+- [(MDY) Pix Wallpapers](https://play.google.com/store/apps/details?id=com.pashapuma.pix.wallpapers "Pix Wallpapers")
+- [(MDY) Swift Walls - Wallpapers](https://play.google.com/store/apps/details?id=it.folgore95.mywall "Swift Walls - Wallpapers")
+- [(MDY) Paper Splash](https://play.google.com/store/apps/details?id=com.jlindemann.papersplash&hl=de_CH&gl=US "Paper Splash")
