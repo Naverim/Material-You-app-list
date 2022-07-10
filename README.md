@@ -38,6 +38,7 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [(MDY) LibreTube](https://github.com/libre-tube/LibreTube "LibreTube")
 - [(MDY) RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer "RetroMusicPlayer")
 - [(MDY) Auxio](https://github.com/OxygenCobalt/Auxio)
+- [(MDY) Pano Scrobbler](https://play.google.com/store/apps/details?id=com.arn.scrobble&hl=en&gl=US)
 
 ------------
 ### Tools
@@ -57,6 +58,8 @@ Here is a small list of apps that support the Material You design/theme. The lis
 - [(MDY) Atomic - Periodic Table](https://play.google.com/store/apps/details?id=com.jlindemann.science)
 - [(MDY) Skit - apps manager](https://play.google.com/store/apps/details?id=com.pavelrekun.skit)
 - [(MDY) Repainter](https://play.google.com/store/apps/details?id=dev.kdrag0n.dyntheme)
+- [(MDY) TG Monet](https://github.com/c3r5b8/Telegram-Monet)
+
 ------------
 ### Icons / Wallpaper / Widgets
 - [(MY) Pix Material You Icons](https://play.google.com/store/apps/details?id=com.pashapuma.pix.material.you.iconpack "Pix Material You Icons")
